@@ -17,3 +17,7 @@ PixelChess is a **Player vs Player** on-chain chess game. Both players stake ETH
 - [Wager & Payouts](wager-and-payouts.md)
 - [Smart Contract](smart-contract.md)
 - [FAQ](faq.md)
+
+## Play Now
+
+[pixelchess.xyz](https://pixelchess.xyz)
