@@ -4,9 +4,9 @@
 
 PixelChess uses a single smart contract deployed on **Base Mainnet** to handle all wager logic. No funds are ever held by the team — everything is managed on-chain.
 
-**Contract Address:** `TBD — will be updated after deployment`\
+**Contract Address:** `0xCa16bb6c3cedA37C2f99eAfD661066621330E8d1`\
 **Network:** Base Mainnet (Chain ID: 8453)\
-**Explorer:** [Basescan](https://basescan.org)
+**Explorer:** [View on Basescan](https://basescan.org/address/0xCa16bb6c3cedA37C2f99eAfD661066621330E8d1#code)
 
 ## Key Functions
 
